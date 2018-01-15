@@ -2,7 +2,7 @@ package com.ecar.cmpp.entity;
 
 public class MsgActiveTest extends MsgHead {
 	
-	private long msg_Id;   
+	private long msg_Id;     
 	
 	private int result;
 
